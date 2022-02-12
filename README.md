@@ -1,3 +1,4 @@
+![Banner](https://user-images.githubusercontent.com/73737531/153710187-64df77e2-d29e-4b57-b1ca-ea0897ad3291.png)
 # LeagueVoice
 This python application allows you to communicate with your team in League of Legends without having to open the chat all the time! 
 
