@@ -11,7 +11,7 @@ Press Y to start a recording, press Y again to stop it. (Currently 4 seconds is 
 ##  Thanks to:
 [MilesJuddPorte](https://github.com/MilesJuddPorter/leagueSpeak) for the base code
 
-[RvNx Mango](https://www.youtube.com/channel/UCl9h2O2Gfbj-njltH8gQsog) for the idea idea of the translation
+[RvNx Mango](https://www.youtube.com/channel/UCl9h2O2Gfbj-njltH8gQsog) for the idea of the translation
 
 
 
